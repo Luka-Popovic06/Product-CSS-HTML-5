@@ -9,3 +9,10 @@ body {
   background-image: url(https://lucasw92.github.io/order-summary-component-main/images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
 }
+.container {
+  background-color: azure;
+  width: 28.125rem;
+  height: 43.5625rem;
+  margin: auto;
+  border-radius: 20px;
+}
