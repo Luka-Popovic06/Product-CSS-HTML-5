@@ -59,4 +59,8 @@ p {
   font-weight: 500;
   line-height: 1.625rem;
   color: #717fa6;
+  font-family: sans-serif;
+}
+.button-1 {
+  margin-top: 15px;
 }
