@@ -46,3 +46,17 @@ p {
   margin-left: 50px;
   margin-bottom: 20px;
 }
+.par-2 {
+  margin-right: 80px;
+}
+.slika-2 {
+  margin-right: 10px;
+}
+.ann-ual {
+  margin-bottom: 5px;
+}
+.cena {
+  font-weight: 500;
+  line-height: 1.625rem;
+  color: #717fa6;
+}
