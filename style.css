@@ -64,3 +64,17 @@ p {
 .button-1 {
   margin-top: 15px;
 }
+.button-2 {
+  background-color: blue;
+  width: 200px;
+  height: 100px;
+  border: none;
+  display: block;
+  border-radius: 15px;
+  color: white;
+  margin-left: 50px;
+  width: 350px;
+  height: 50px;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
